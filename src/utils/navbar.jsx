@@ -5,7 +5,7 @@ const NavBar = () => (
     <span>
       <a
         className="btn-sm text-decoration-none bg-danger rounded-0 text-light"
-        href=""
+        href="https://github.com/shutter-codes/AlgoVisualiser"
       >
         <i className="fab text-light fa-github"></i>
         &nbsp; Source Code
